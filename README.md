@@ -23,4 +23,5 @@ A repo for cool games to play in this pandemic while resting from your mental br
 ## Adventure
 |Title|Developer|Metacritic|Link|
 |---|---|---|---|
-|Darksiders 3|Gunfire games|70|[Link](https://www.metacritic.com/game/playstation-4/darksiders-iii)||
+|Darksiders 3|Gunfire games|70|[Link](https://www.metacritic.com/game/playstation-4/darksiders-iii)|
+|Ratchet & Clank|Insomniac games|88|[Link](https://www.metacritic.com/game/playstation-5/ratchet-clank-rift-apart)|
