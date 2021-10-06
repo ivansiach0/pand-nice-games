@@ -18,7 +18,8 @@ A repo for cool games to play in this pandemic while resting from your mental br
 |Title|Developer|Metacritic|Link|
 |---|---|---|---|
 |Mortal Kombat 11|Warner Bros Interactive Entertainment|82|[Link](https://www.mortalkombat.com/)|
-|Steet Fighter V|Capcom|77|[Link](https://www.metacritic.com/game/playstation-4/street-fighter-v)
+|Steet Fighter V|Capcom|77|[Link](https://www.metacritic.com/game/playstation-4/street-fighter-v)|
+|The King of Fighters XIV|SNK Playmore|79|[Link](https://www.metacritic.com/game/playstation-4/the-king-of-fighters-xiv)|
 
 ## Adventure
 |Title|Developer|Metacritic|Link|
