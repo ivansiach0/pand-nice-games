@@ -4,7 +4,8 @@ A repo for cool games to play in this pandemic while resting from your mental br
 |Summary|
 |---|
 |[Action](#action)|
-|[Fighting](#fighting)
+|[Fighting](#fighting)|
+|[Adventure](#adventure)
 
 ## Action
 |Title|Developer|Metacritic|Link
