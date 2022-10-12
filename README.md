@@ -14,6 +14,7 @@ A repo for cool games to play in this pandemic while resting from your mental br
 |Resident Evil 3|Capcom|79|[Link](https://www.metacritic.com/game/playstation-4/resident-evil-3)|
 |The last of us 2|Naughty Dog |93|[Link](https://www.metacritic.com/game/playstation-4/the-last-of-us-part-ii)|
 |Resident Evil Village|Capcom|84|[Link](https://www.metacritic.com/game/playstation-5/resident-evil-village)|
+|Call of Duty: Vanguard|Sledgehammer|74|[Link](https://www.metacritic.com/game/playstation-5/call-of-duty-vanguard)|
 
 ## Fighting
 |Title|Developer|Metacritic|Link|
